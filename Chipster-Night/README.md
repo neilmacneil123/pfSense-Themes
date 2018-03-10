@@ -15,10 +15,10 @@ theme, shipped with pfSense 2.4.2:
   - Color tweaks and consistency for common UI element, tables, and other UI elements.
 
 * Traffic Graphs:
-  - Consistent stroke and fill colors with the rest of the UI
+  - Consistent stroke and fill colors with the rest of the theme 
   - Inverse graph mode follows a more "natural" traffic flow design:
-  - Inbound traffic flows "south" or downward
-  - Outbound traffic flows "north" or upward
+  -- Inbound traffic flows "south" or downward
+  -- Outbound traffic flows "north" or upward
 
 ## Installation
 1. If you do not wish to install the Traffic Graph tweaks, skip to Step #4.
