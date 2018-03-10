@@ -26,7 +26,7 @@ theme, shipped with pfSense 2.4.2:
 3. Copy the contents of the `vendor/d3` folder to `/usr/local/www/vendor/d3` (note: this will
    affect the color of the charts regardless of the theme selected, so you may want to make a
    backup of this file before proceeding.)
-4. Copy the contents of the `css` folder to /usr/local/www/css`
+4. Copy the contents of the `css` folder to `/usr/local/www/css`
 
 ## Screenshot:
 ![alt text](http://techdocs.cuccio.us/Chipster-Night_SS.png "Screenshot: Smaller Font CSS")
