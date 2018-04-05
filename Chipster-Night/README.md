@@ -22,5 +22,5 @@ theme, shipped with pfSense 2.4.2:
    backup of this file before proceeding.)
 4. Copy the contents of the `css` folder to `/usr/local/www/css`
 ## Screenshot:
-![alt text](http://techdocs.cuccio.us/Chipster-Night_SS.png "Screenshot: Smaller Font CSS")
+![alt text](http://techdocs.cuccio.us/Chipster-Night-Small_SS.png "Screenshot: Smaller Font CSS")
 
