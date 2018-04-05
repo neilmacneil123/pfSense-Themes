@@ -558,3 +558,11 @@ text underline, but text-color, background, font etc. could also be used */
 div#widget-traffic_graphs-0.panel.panel-default {
     background-color: #303030;
 }
+
+.fa-info-circle {
+    color: #19a0a0;
+}
+
+.text-info {
+    color: #19a0a0;
+}
