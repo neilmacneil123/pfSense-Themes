@@ -1,6 +1,6 @@
 /*
  * part of pfSense (https://www.pfsense.org)
- * Copyright (c) 2016 Rubicon Communications, LLC (Netgate)
+ * Copyright (c) 2016-2018 Rubicon Communications, LLC (Netgate)
  * All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,7 +18,7 @@
 
 function graph_init() {
 
-	window.charts = {};
+    window.charts = {};
     window.myData = {};
     window.updateIds = 0;
     window.updateTimerIds = 0;
@@ -287,11 +287,6 @@ function draw_graph(then) {
 					// circular array to keep track of 'x' amount of data points
 					priorIn[interfaceCount][smoothCount] = currentIn;
 					priorOut[interfaceCount][smoothCount] = currentOut;
-					/*
-					if(window.invert) {
-						trafficOut = 0 - trafficOut;
-					}
-					*/
 					if(window.invert) {
 					        trafficOut = 0 + trafficOut;
 						trafficIn = 0 - trafficIn;
