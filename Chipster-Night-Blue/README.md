@@ -11,5 +11,5 @@ theme, shipped with pfSense >= v2.4.2:
 ## Installation
 1. Copy the contents of the `css` folder to `/usr/local/www/css`
 ## Screenshot:
-![alt text](http://techdocs.cuccio.us/Chipster-Night-Small_Blue-SS.png "Screenshot: Smaller Font CSS")
+![alt text](http://techdocs.cuccio.us/Chipster-Night-Small_SS.png "Screenshot: Smaller Font CSS")
 
